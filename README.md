@@ -4,9 +4,19 @@ Repo que contém material sobre o curso de Testes Exploratórios realizado na Ud
 
 ## :briefcase: Documentação
 
-Incluído até o momento a planilha com exercício da Aula 10
+Incluído a planilha com os exercício realizados durante o Curso Testes Exploratórios
 
-<p> aula10_ desenvolvidoTestCase_UseCase.xls </p> 
+<p> exerciciosCursoTestesExploratorios.xlsx </p> 
+
+## <code><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png" width="20"></code><code><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" width="20"></code> Cursos
+
+https://www.udemy.com/course/produtividade-vscode/ (Gratuito)
+
+https://www.udemy.com/course/testes-cypress/ (Pago)
+
+https://wcaquino.me/ (Vários cursos sobre Qualidade de SW / Automação / Desenvolvimento)
+
+<code><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></code>
 
 ## :desktop_computer: Tecnologias
 
