@@ -4,9 +4,9 @@ Repo que contém material sobre o curso de Testes Exploratórios realizado na Ud
 
 ## :briefcase: Documentação
 
-Incluído a planilha com os exercício realizados durante o Curso Testes Exploratórios
+Incluído a planilha com os exercícios realizados durante o Curso Testes Exploratórios
 
-<p> exerciciosCursoTestesExploratorios.xlsx </p> 
+<p> Arquivo : exerciciosCursoTestesExploratorios.xlsx </p> 
 
 ## <code><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png" width="20"></code><code><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" width="20"></code> Cursos
 
