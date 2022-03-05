@@ -10,9 +10,7 @@ Incluído a planilha com os exercício realizados durante o Curso Testes Explora
 
 ## <code><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png" width="20"></code><code><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" width="20"></code> Cursos
 
-https://www.udemy.com/course/produtividade-vscode/ (Gratuito)
-
-https://www.udemy.com/course/testes-cypress/ (Pago)
+https://www.udemy.com/course/testes-exploratorios/ (Pago)
 
 https://wcaquino.me/ (Vários cursos sobre Qualidade de SW / Automação / Desenvolvimento)
 
