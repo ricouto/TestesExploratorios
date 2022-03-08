@@ -1,0 +1,15 @@
+Janela, Executiva, Fortaleza_Ori, São Paulo
+Apertado, Econômica, São Paulo, São Paulo
+Corredor, Econômica, Rio de Janeiro, Fortaleza_Des
+Corredor, Executiva, Belo Horizonte_Ori, Rio de Janeiro
+Apertado, Econômica, Belo Horizonte_Ori, Rio de Janeiro
+Janela, Econômica, Belo Horizonte_Ori, Fortaleza_Des
+Apertado, Econômica, Fortaleza_Ori, Belo Horizonte_Des
+Janela, Executiva, Rio de Janeiro, Belo Horizonte_Des
+Corredor, Executiva, São Paulo, Belo Horizonte_Des
+Apertado, Econômica, Rio de Janeiro, São Paulo
+Apertado, Econômica, Belo Horizonte_Ori, São Paulo
+Apertado, Econômica, São Paulo, Fortaleza_Des
+Corredor, Executiva, Fortaleza_Ori, São Paulo
+Janela, Executiva, São Paulo, Rio de Janeiro
+Apertado, Econômica, Fortaleza_Ori, Rio de Janeiro

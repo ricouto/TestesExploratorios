@@ -14,6 +14,8 @@ https://www.udemy.com/course/testes-exploratorios/ (Pago)
 
 https://wcaquino.me/ (Vários cursos sobre Qualidade de SW / Automação / Desenvolvimento)
 
+https://sqamate.com/tools/pairwise (Ferramenta WEB para modelar Caso de Teste usando pairwise)
+
 <code><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></code>
 
 ## :desktop_computer: Tecnologias
